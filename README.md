@@ -24,11 +24,8 @@ I'm an experienced programmer skilled in C and C++, currently learning game desi
 Through this journey, I'm advancing my skills in level design and game programming using Core Games, excited to create more projects ahead. Feel free to explore and get inspired by my game's design. Your feedback is highly appreciated!
 
 This hands-on experience allows me to delve deeper into the world of game development, combining my programming background with creative design. I look forward to the challenges and discoveries that lie ahead, as I continue refining my expertise and contributing to the world of gaming.
-
-<div align="center">
   
 [Click For More](https://www.web-linki.com)
-</div>
 </details>
 
 Feel free to reach out to me via [info.beydahsaglam@gmail.com](mailto:info.beydahsaglam@gmail.com) or connect with me on [linkedin/beydah](https://www.linkedin.com/in/beydah/) if you'd like to get in touch.
