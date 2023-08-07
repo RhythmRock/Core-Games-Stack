@@ -47,7 +47,7 @@ This hands-on experience allows me to delve deeper into the world of game develo
 Expansive Maps: Dive into diverse regions like forests, cities, and mountains, providing tactical advantages.
 Weapon Variety: Choose from a wide array of customizable weapons and equipment to match your style.
 Tactical Focus: Beyond aiming, strategic movement and equipment use are crucial for survival.
-Experience immersive Battle Royale action, develop strategies, and outplay your rivals in the intense world of "Core G Battlegrounds.
+Experience immersive Battle Royale action, develop strategies, and outplay your rivals in the intense world of "Core G Battlegrounds".
   
 [Click For More](https://www.coregames.com/games/f9c30b/core-g-battlegrounds)
 </details>
