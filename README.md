@@ -35,7 +35,7 @@ This hands-on experience allows me to delve deeper into the world of game develo
 ---
 
 <details>
-<summary><h1>Core - G Battlegrounds</h1></summary>
+<summary><h1>Core G - Game of Battlegrounds</h1></summary>
 <div align="center">
   <img src="https://manticoreprod-ms.azureedge.net/screenshots/f9c30b815fb94e28afc676152b5b951e_2_He42QYptG6yf4GCrHPsHE_1CD258F62E766EAA22F9009FBC3E1F40A6DDB969.jpg" alt="Core Games" max-width: 100%; height: auto;>
 </div>
