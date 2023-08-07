@@ -2,6 +2,8 @@
   <img src="https://www.coregames.com/img/logo/flat/core-logo.webp" alt="Core Games Logo" max-width: 100%; height: auto;>
 </div>
 
+---
+
 # Free Core Games Level Design Sets
 
 With the advancement of technology, new opportunities have arisen in the field of game development. The Core Games platform has evolved to attract a wide spectrum of individuals, ranging from experienced developers to newcomers. This repository stands out as a resource dedicated to learning through Core Games, offering steps and sharing free level designs.
@@ -10,6 +12,8 @@ The repository's free level designs offer rich content for anyone aiming to gras
 These freely accessible designs on the platform serve as a valuable resource not only for those seeking to learn basic game development skills but also for developers preparing to embark on more intricate projects. Thanks to Core Games' user-friendly interface, each level design is meticulously explained step by step, enhancing the effectiveness of the learning process.
 
 This repository offers game development enthusiasts an opportunity to delve into the Core Games universe. Free level designs and related links empower everyone to take their initial steps on the journey of game development and enhance their skills in this exciting field. Through the Core Games platform, a comprehensive learning resource is provided for those interested in unraveling the mysteries of the gaming world and bringing their own game projects to life. This repository is dedicated to inspiring and guiding the game developers of the future.
+
+---
 
 <details>
 <summary><h1>City Istanbul - My Home & City Level Design</h1></summary>
@@ -27,6 +31,8 @@ This hands-on experience allows me to delve deeper into the world of game develo
   
 [Click For More](https://www.coregames.com/games/3b5bdc/city-istanbul)
 </details>
+
+---
 
 Feel free to reach out to me via [info.beydahsaglam@gmail.com](mailto:info.beydahsaglam@gmail.com) or connect with me on [linkedin/beydah](https://www.linkedin.com/in/beydah/) if you'd like to get in touch.
 Thank you, and have a great day!
