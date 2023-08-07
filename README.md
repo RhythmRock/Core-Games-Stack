@@ -34,5 +34,25 @@ This hands-on experience allows me to delve deeper into the world of game develo
 
 ---
 
+<details>
+<summary><h1>Core - G Battlegrounds</h1></summary>
+<div align="center">
+  <img src="https://manticoreprod-ms.azureedge.net/screenshots/f9c30b815fb94e28afc676152b5b951e_2_He42QYptG6yf4GCrHPsHE_1CD258F62E766EAA22F9009FBC3E1F40A6DDB969.jpg" alt="Core Games" max-width: 100%; height: auto;>
+</div>
+
+## Summary
+
+Core G Battlegrounds" is an action-packed Battle Royale game that delivers suspenseful gameplay, allowing you to forge your path, strategize, and engage in conflicts to be the ultimate survivor. With stunning graphics, tactical mechanics, and dynamic environments, it offers:
+
+Expansive Maps: Dive into diverse regions like forests, cities, and mountains, providing tactical advantages.
+Weapon Variety: Choose from a wide array of customizable weapons and equipment to match your style.
+Tactical Focus: Beyond aiming, strategic movement and equipment use are crucial for survival.
+Experience immersive Battle Royale action, develop strategies, and outplay your rivals in the intense world of "Core G Battlegrounds.
+  
+[Click For More](https://www.coregames.com/games/f9c30b/core-g-battlegrounds)
+</details>
+
+---
+
 Feel free to reach out to me via [info.beydahsaglam@gmail.com](mailto:info.beydahsaglam@gmail.com) or connect with me on [linkedin/beydah](https://www.linkedin.com/in/beydah/) if you'd like to get in touch.
 Thank you, and have a great day!
