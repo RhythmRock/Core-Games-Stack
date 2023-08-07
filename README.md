@@ -42,7 +42,7 @@ This hands-on experience allows me to delve deeper into the world of game develo
 
 ## Summary
 
-Core G Battlegrounds" is an action-packed Battle Royale game that delivers suspenseful gameplay, allowing you to forge your path, strategize, and engage in conflicts to be the ultimate survivor. With stunning graphics, tactical mechanics, and dynamic environments, it offers:
+"Core G Battlegrounds" is an action-packed Battle Royale game that delivers suspenseful gameplay, allowing you to forge your path, strategize, and engage in conflicts to be the ultimate survivor. With stunning graphics, tactical mechanics, and dynamic environments, it offers:
 
 Expansive Maps: Dive into diverse regions like forests, cities, and mountains, providing tactical advantages.
 Weapon Variety: Choose from a wide array of customizable weapons and equipment to match your style.
