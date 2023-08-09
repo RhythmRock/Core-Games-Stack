@@ -54,5 +54,30 @@ Experience immersive Battle Royale action, develop strategies, and outplay your 
 
 ---
 
+<details>
+<summary><h1>Core Strike</h1></summary>
+<div align="center">
+  <img src="https://manticoreprod-ms.azureedge.net/screenshots/ae75ecc5e59f40e78f7d49025ee6f7de_0_3D8nJHHClSadXgoWHpQewP_3095E734D6FAB8A4CE0A043C897E3C6063DE9F2A.jpg" alt="Core Games" max-width: 100%; height: auto;>
+</div>
+
+## Summary
+
+"Core Strike" is a dynamic multiplayer third-person shooter game that combines fast-paced action with strategic gameplay. Engage in thrilling battles on competitive battlefields, utilizing speed, tactics, and teamwork. The game introduces fresh elements to the genre while honoring classic shooter game features.
+
+Features:
+
+Multiplayer Mode: Engage in team-based or free-for-all battles, supported by a balanced ranking system and fair matchmaking.
+
+Weapon Variety: Choose from an array of weapons and equipment, each with distinct strengths and weaknesses, enabling adaptable strategies.
+
+Stunning Graphics and Audio: Immerse yourself in the game's realistic visuals and immersive sounds, enhancing the excitement.
+
+"Core Strike" offers a robust gaming experience, catering to shooter enthusiasts seeking both competition and enjoyment. Master strategy, reflexes, and collaboration to achieve victory.
+  
+[Click For More](https://www.coregames.com/games/ae75ec/core-strike)
+</details>
+
+---
+
 Feel free to reach out to me via [info.beydahsaglam@gmail.com](mailto:info.beydahsaglam@gmail.com) or connect with me on [linkedin/beydah](https://www.linkedin.com/in/beydah/) if you'd like to get in touch.
 Thank you, and have a great day!
