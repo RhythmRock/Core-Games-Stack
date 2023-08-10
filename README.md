@@ -16,7 +16,7 @@ This repository offers game development enthusiasts an opportunity to delve into
 ---
 
 <details>
-<summary><h1>City Istanbul - My Home & City Level Design</h1></summary>
+<summary><h1>City Istanbul</h1></summary>
 <div align="center">
   <img src="https://manticoreprod-ms.azureedge.net/screenshots/3b5bdc25bc224a738e96d49ee5da3655_2_7XmHlD4J28Sb9zymK0HEIR_814A98F6CD55BDA2F3F4AB02F77B2E33F7C3763A.jpg" alt="Core Games" max-width: 100%; height: auto;>
 </div>
@@ -35,7 +35,7 @@ This hands-on experience allows me to delve deeper into the world of game develo
 ---
 
 <details>
-<summary><h1>Core G - Game of Battlegrounds</h1></summary>
+<summary><h1>Core Battlegrounds</h1></summary>
 <div align="center">
   <img src="https://manticoreprod-ms.azureedge.net/screenshots/f9c30b815fb94e28afc676152b5b951e_2_He42QYptG6yf4GCrHPsHE_1CD258F62E766EAA22F9009FBC3E1F40A6DDB969.jpg" alt="Core Games" max-width: 100%; height: auto;>
 </div>
