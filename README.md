@@ -72,7 +72,7 @@ Weapon Variety: Choose from an array of weapons and equipment, each with distinc
 
 Stunning Graphics and Audio: Immerse yourself in the game's realistic visuals and immersive sounds, enhancing the excitement.
 
-"Core Strike" offers a robust gaming experience, catering to shooter enthusiasts seeking both competition and enjoyment. Master strategy, reflexes, and collaboration to achieve victory.
+"Core Strike" offers a robust gaming experience, catering to shooter enthusiasts seeking both competition and enjoyment. Master strategy, reflexes, and collaboration to achieve victory...
   
 [Click For More](https://www.coregames.com/games/ae75ec/core-strike)
 </details>
