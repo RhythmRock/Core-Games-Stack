@@ -100,5 +100,28 @@ I'm your guide through every maze. From complex code to profound thoughts, we'll
 
 ---
 
+<details>
+<summary><h1>Core Platform Game</h1></summary>
+<div align="center">
+  <img src="https://manticoreprod-ms.azureedge.net/screenshots/25c7a493d55e429dbe264e7ac6f17fd6_0_7IZ5WBgGCxuHa9CP4uIW1D_A3E2D9609122E9EF05119408532E169262C0D1C3.jpg" alt="Core Games" max-width: 100%; height: auto;>
+</div>
+
+## Summary
+
+Greetings, brave gamers! Welcome to the awe-inspiring realm of 'Core Platform Game,' where you'll embark on a heart-pounding escape from hell. This isn't just about testing your skills; it's about challenging your strategic prowess. Trapped deep within hell's depths, your only chance is to break free. But beware, this escape won't be a stroll in the park.
+
+Navigate through challenging levels, conquer traps, overcome obstacles, and battle dark creatures. Enhance your abilities, discover hidden areas, and solve puzzles to progress. Each step gets you closer to freedom.
+
+The visually stunning world will captivate you with its vibrant colors, dynamic backgrounds, and atmospheric effects, immersing you in the heat and perils of hell. The music seamlessly integrates you into this immersive world.
+
+'Core Platform Game' appeals to players and designers alike. Players relish rich gaming, diverse difficulties, and skill upgrades. Designers get to apply creative ideas within the game.
+
+Ready? Step into the adventure-packed world, escaping the flames of hell. 'Core Platform Game' offers an unforgettable experience brimming with skill, strategy, and excitement. We've got your back even on the darkest days! Enjoy endless fun!
+  
+[Click For More](https://www.coregames.com/games/25c7a4/core-platform-game)
+</details>
+
+---
+
 Feel free to reach out to me via [info.beydahsaglam@gmail.com](mailto:info.beydahsaglam@gmail.com) or connect with me on [linkedin/beydah](https://www.linkedin.com/in/beydah/) if you'd like to get in touch.
 Thank you, and have a great day!
