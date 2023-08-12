@@ -79,5 +79,26 @@ Stunning Graphics and Audio: Immerse yourself in the game's realistic visuals an
 
 ---
 
+<details>
+<summary><h1>Core Labirentos</h1></summary>
+<div align="center">
+  <img src="https://manticoreprod-ms.azureedge.net/screenshots/964a4c4228f44ba5b3d510e06a3087aa_4_3a1a2B0FQAlWSG8N6F4zUT_F065CA7C568EC0DF62FF6FCD296D880C95985B3D.jpg" alt="Core Games" max-width: 100%; height: auto;>
+</div>
+
+## Summary
+
+Welcome to 'Core Labirentos,' a captivating maze game that challenges your skills and intellect. Navigate intricate mazes, watch out for traps, and reach the exit. Progress through levels to enhance skills, test strategies, and elevate logical abilities.
+
+Experience 'Core Labirentos' – not just entertainment, but a journey of learning and growth. Conquer challenges, gain new skills, and develop personally. This game mirrors your tech journey, boosting your programming interest and cognitive prowess.
+
+Dive into a labyrinthine world of surprises. 'Core Labirentos' offers diverse challenges and an immersive atmosphere, engaging your creativity and attention.
+
+I'm your guide through every maze. From complex code to profound thoughts, we'll tackle challenges together. Your dedication has brought 'Core Labirentos' to life, infusing each level with passion. Good luck on this adventure
+  
+[Click For More](https://www.coregames.com/games/964a4c/core-labirentos)
+</details>
+
+---
+
 Feel free to reach out to me via [info.beydahsaglam@gmail.com](mailto:info.beydahsaglam@gmail.com) or connect with me on [linkedin/beydah](https://www.linkedin.com/in/beydah/) if you'd like to get in touch.
 Thank you, and have a great day!
